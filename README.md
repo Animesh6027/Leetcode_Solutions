@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Dynamic Programming
 |  |
@@ -17,4 +18,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
