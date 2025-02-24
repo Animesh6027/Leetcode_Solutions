@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 ## Dynamic Programming
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
