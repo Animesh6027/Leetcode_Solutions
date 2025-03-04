@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0283-move-zeroes) |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
