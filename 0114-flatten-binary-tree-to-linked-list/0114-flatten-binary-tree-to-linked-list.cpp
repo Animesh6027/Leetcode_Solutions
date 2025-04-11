@@ -12,18 +12,18 @@
 class Solution {
 public:
     void flatten(TreeNode* root) {
-        if(!root) return;
-        flatten(root->left);
-        flatten(root->right);
-        if(root->left){
-            TreeNode* tempright=root->right;
-            root->right=root->left;
-            root->left=NULL;
-            TreeNode* rightmost=root->right;
-            while(rightmost->right){
-                rightmost=rightmost->right;
+        while(root){
+            if(root->left){
+                TreeNode* rightmost=root->left;
+                while(rightmost->right){
+                    rightmost=rightmost->right;
+                }
+                rightmost->right=root->right;
+                root->right=root->left;
+                root->left=nullptr;
             }
-            rightmost->right=tempright;
+            root=root->right;
         }
-    }
+        }
+    
 };
