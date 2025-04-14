@@ -10,22 +10,21 @@
  * };
  */
 class Solution {
- public:
-  vector<vector<int>> levelOrder(TreeNode* root) {
-   vector<vector<int>> result;
-   traverse(root,0,result);
-   return result;
-   }
-//    private:
-   void traverse(TreeNode* node, int level, vector<vector<int>>& result){
-    if(node==nullptr) return;
-    if(result.size()==level){
-        result.push_back(vector<int>());
+public:
+    int height(TreeNode* root){
+        if(root==nullptr) return 0;
+        return 1+max(height(root->left), height(root->right));
     }
-    result[level].push_back(node->val);
-    traverse(node->left, level+1, result);
-    traverse(node->right, level+1, result);
-   }
-   
-  
+    void fun(TreeNode* root, int level, vector<vector<int>>& ans){
+        if(root==nullptr) return;
+        ans[level].push_back(root->val);
+        fun(root->left, level+1, ans);
+        fun(root->right, level+1, ans);
+    }
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        int h=height(root);
+        vector<vector<int>> ans(h);
+        fun(root,0,ans);
+        return ans;
+    }
 };
