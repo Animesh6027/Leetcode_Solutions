@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -110,8 +112,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 ## Linked List
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
