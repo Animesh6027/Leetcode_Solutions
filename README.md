@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0039-combination-sum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0200-number-of-islands) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
