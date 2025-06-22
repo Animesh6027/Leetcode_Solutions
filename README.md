@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0316-remove-duplicate-letters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0039-combination-sum) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->
