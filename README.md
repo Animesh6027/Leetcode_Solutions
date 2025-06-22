@@ -69,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 | [0316-remove-duplicate-letters](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0316-remove-duplicate-letters) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Binary Search
@@ -143,4 +145,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
