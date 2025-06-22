@@ -139,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
