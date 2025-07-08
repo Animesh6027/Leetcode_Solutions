@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Stack
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -81,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Animesh6027/Leetcode_Solutions/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Greedy
 |  |
 | ------- |
